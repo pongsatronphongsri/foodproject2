@@ -10,6 +10,12 @@ const app = Vue.createApp({
             images7: 'assets/images/dish4.png',
             images8: 'assets/images/dish5.png',
             images9: 'assets/images/dish6.png',
+            menu01: 'assets/images/menu-1.jpg',
+            menu02: 'assets/images/menu-2.jpg',
+            menu03: 'assets/images/menu-3.jpg',
+            menu04: 'assets/images/menu-4.jpg',
+            menu05: 'assets/images/menu-5.jpg',
+            menu06: 'assets/images/menu-6.jpg',
             
             
             
