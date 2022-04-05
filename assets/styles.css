@@ -266,6 +266,14 @@ header .icons a:hover{
     color: var(--rgbred);
 }
 
+.dishes .box-container .box span{
+    color: var(--rgbred);
+    font-weight: bolder;
+    margin-right: 1rem;
+    font: 2.5rem;
+}
+
+
 
 
 
