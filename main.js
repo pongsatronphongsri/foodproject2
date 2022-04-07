@@ -16,6 +16,18 @@ const app = Vue.createApp({
             menu04: 'assets/images/menu-4.jpg',
             menu05: 'assets/images/menu-5.jpg',
             menu06: 'assets/images/menu-6.jpg',
+            sweet01: 'assets/images/bread.jpg',
+            sweet02: 'assets/images/cake.jpg',
+            sweet03: 'assets/images/cake2.jpg',
+            sweet04: 'assets/images/cookies.jpg',
+            sweet05: 'assets/images/ice-cream.jpg',
+            sweet06: 'assets/images/waffles.jpg',
+            drink01: 'assets/images/cocktails.jpg',
+            drink02: 'assets/images/cocktai2.jpg',
+            drink03: 'assets/images/coca-cola.jpg',
+            drink04: 'assets/images/cans.jpg',
+            drink05: 'assets/images/green.jpg',
+            drink06: 'assets/images/beer.jpg',
             
             
             
